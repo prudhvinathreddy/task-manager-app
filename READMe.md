@@ -37,6 +37,6 @@ This is a simple full-stack task manager application I built as part of a coding
 That’s it — you should see the Task Manager UI.
 
 Now in the UI, you can:
-Add a new task 
-Mark tasks as completed
-Delete tasks (The task list updates automatically)
+* Add a new task 
+* Mark tasks as completed
+* Delete tasks (The task list updates automatically)
