@@ -1,0 +1,37 @@
+# Maven build output
+target/
+
+# Maven wrapper JAR - keep this file to run mvnw commands
+!.mvn/wrapper/maven-wrapper.jar
+
+# OS and log files
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE and editor files
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
